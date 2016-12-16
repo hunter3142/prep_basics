@@ -185,7 +185,7 @@ etc.
 Cascading Stylesheets, a language that describes the look and style of the elements
 defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
 and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content. The main groupings you can stylize are HTML tags, classes, and id's.'
+and it makes the front end simpler by separating presentation from content. The main groupings you can stylize are HTML tags, classes, and id's.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
