@@ -534,7 +534,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### CSS
 
-"Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+"Cascading Style Sheets" find HTML tags and tell the browser how to display them. Also using classes and id's to be more specific with your stylization.'
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
