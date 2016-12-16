@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -185,7 +185,7 @@ etc.
 Cascading Stylesheets, a language that describes the look and style of the elements
 defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
 and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+and it makes the front end simpler by separating presentation from content. The main groupings you can stylize are HTML tags, classes, and id's.'
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
